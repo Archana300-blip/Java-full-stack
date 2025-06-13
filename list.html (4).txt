@@ -1,0 +1,32 @@
+<DOCTYPE html>
+<html>
+<body>
+<h3>FLOWERS</h2>
+<p>Flower</p>
+<ul>
+<li>Rose</li>
+ <li>Jasmine</li>
+<li>Tulip</li>
+<li>lotus</li>
+<li>hibiscus</li>
+<li>marigold</li>
+<li>daffodil</li>
+<li>Sunflower</li>
+</ul>
+<h3>Tourist places in Kanyakumari</h3>
+<p>Kanyakumari</p>
+<ol>
+<li>Thiruvalluvar statue</li>
+<li>Bagavathi Amman Temple</li>
+<li>Vivekananda Rock Memorial</li>
+<li>Vattakottai fort</li>
+<li>Mathur Aqueduct</li>
+<li>Suchindram temple</li>
+<li>Padmanabhapuram Palace</li>
+<li>Sunrise Point</li>
+<li>Thirparappu Waterfalls</li>
+<li>Sanguthurai Beach</li>
+ <li>Udayagiri Fort</li>
+</ol>
+</body>
+</html>
